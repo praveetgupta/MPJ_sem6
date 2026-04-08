@@ -42,7 +42,7 @@ class Lonavala extends TouristSpot {
     }
 }
 
-public class Main {
+public class lab_3_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         TouristSpot spot;
